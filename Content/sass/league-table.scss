@@ -1,0 +1,12 @@
+.league-table {
+    .position {
+        background-color: rgb(237, 31, 31);
+        color: white;
+    }
+    .position::after {
+        width: 0;
+        height: 0;
+        border-top: 100px solid red;
+        border-right: 100px solid transparent;
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "league-table.css",
+  "sources": [
+    "../sass/league-table.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": "AACI,aAAa,CAAC,SAAS,AAAb,CACN,gBAAgB,CAAE,OAAG,CACrB,KAAK,CAAE,KAAM,CAFN,AAIF,aAAa,CAAC,SAAS,AAAA,OAAO,AAAtB,CACb,KAAK,CAAE,CAAE,CACT,MAAM,CAAE,CAAE,CACV,UAAU,CAAE,eAAgB,CAC5B,YAAY,CAAE,uBAAwB,CAJxB",
+  "names": []
+}

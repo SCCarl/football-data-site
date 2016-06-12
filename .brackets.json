@@ -1,0 +1,13 @@
+{
+    "path": {
+        "Content/sass/league-table.scss": {
+            "sass.enabled": true
+            , "sass.options": {
+                "outputDir": "../css/"
+                , "imagePath": null
+                , "sourceComments": false
+                , "outputStyle": "compressed"
+            }
+        }
+    }
+}
