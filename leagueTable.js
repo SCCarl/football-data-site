@@ -7,13 +7,13 @@ $(document).ready(function () {
 
             $.each(data.standing, function (index, value) {
                 leagueData.push({
-                    position: value.position
-                    , team: value.teamName
+                    "#": value.position
+                    , team: value.teamName.replace(/\sFC$/, "")
                     , played: value.playedGames
                     , w: value.wins
                     , d: value.draws
                     , l: value.losses
-                    , points: value.points
+                    , pts: value.points
                 })
             });
 
